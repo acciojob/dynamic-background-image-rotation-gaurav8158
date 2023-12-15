@@ -1,7 +1,17 @@
 /*  your css code here. If applicable */
-.portrait{
+/* .portrait{
   background-image: url('https://photovideocreative.com/wordpress/wp-content/uploads/2017/11/Portrait-en-orientation-portrait.jpg');
 }
 .landscap{
   background-image: url('https://photovideocreative.com/wordpress/wp-content/uploads/2017/11/Paysage-en-orientation-paysage.jpg');
-}
+} */
+
+  body {
+      margin: 0;
+      padding: 0;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      overflow: hidden;
+    }
